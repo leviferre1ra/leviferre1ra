@@ -50,9 +50,9 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/levi-ferreira-08325b298/" height="40" alt="linkedin logo"  />
-  <img src="leviferreira1677@gmail.com" height="40" alt="gmail logo"  />
-  <img src="https://wa.me/5513991054869" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/levi-ferreira-08325b298/" img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/levi-ferreira-08325b298/" img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/levi-ferreira-08325b298/" img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
