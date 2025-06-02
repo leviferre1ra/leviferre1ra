@@ -1,6 +1,3 @@
-<p align="left">🚧 README EM CONSTRUÇÃO! 🚧</p>
-
-###
 
 <h2 align="left">👨🏻‍💻 Levi Ferreira</h2>
 
