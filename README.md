@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Me chamo Levi Ferreira Cunha, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC. Desejo me tornar um desenvolvedor Full Stack, mas no momento estou construindo uma boa base em Backend utilizando Java, Spring Boot e PostgreSQL.</p>
+<p align="left">Me chamo Levi Ferreira, tenho 19 anos e atualmente estou cursando Desenvolvimento de Software Multiplataforma na FATEC. Desejo me tornar um desenvolvedor Full Stack, mas no momento, por fora da faculdade estou construindo uma boa base em Backend utilizando Java, Spring Boot e PostgreSQL.</p>
 
 ###
 
