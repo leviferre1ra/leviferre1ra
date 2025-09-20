@@ -3,7 +3,11 @@
 
 ###
 
-<p align="left">Me chamo Levi Ferreira, tenho 19 anos e atualmente estou cursando Desenvolvimento de Software Multiplataforma na FATEC. Desejo me tornar um desenvolvedor Full Stack, mas no momento, por fora da faculdade estou construindo uma boa base em Backend utilizando Java, Spring Boot e PostgreSQL.</p>
+<p align="left">Me chamo Levi Ferreira, tenho 19 anos e atualmente graduando em Desenvolvimento de Software Multiplataforma, com previsão de conclusão de curso ao final de 2027.
+
+Tenho me dedicado a aprender as mais diversas tecnologias, com o principal objetivo de me tornar um Desenvolvedor Full Stack. No momento dos meus estudos fora do curso, estou aprimorando meus conhecimentos em Java, Spring Boot e PostgreSQL, criando uma base sólida em backend.
+
+Aprender, comunicar e colaborar fazem parte de quem sou. Tenho o hábito de transformar curiosidade em movimento e encarar a complexidade como oportunidade para criar soluções inovadoras.
 
 ###
 
