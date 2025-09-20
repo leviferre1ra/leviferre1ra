@@ -1,13 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=b21106&reversal=false&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cd3500&reversal=false&fontAlign=50&section=header&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=D70000&center=true&width=435&lines=I'm+a+Software+Development+student)](https://git.io/typing-svg)
-###
-
-<p align="left">🔭 Majoring in Cross-Platform Software Development<br>🌱 Improving my knowledge of Java, Spring Boot, and PostgreSQL<br>⚡ Looking for a backend internship</p>
-
-###
+<div align="center"  width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=D70000&width=435&lines=Hi%2C+my+name+is+Levi+Ferreira;I'm+a+Software+Development+student" alt="Typing SVG" />
+</div>
 
 <br>
+
+
 <div align="center">
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviferre1ra&theme=kacho_ga) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leviferre1ra&theme=kacho_ga) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leviferre1ra&theme=kacho_ga&utcOffset=8) |
@@ -17,9 +16,7 @@
 | :-: | :-: |
 
 </div>
-
-
-###
+<br>
 
 <div align="center" style="font-size: 0;">
   <a href="https://www.instagram.com/leviferre1ra" target="_blank">
@@ -33,7 +30,7 @@
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
@@ -56,8 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
-
-###
+<br>
 
 <br clear="both">
 
@@ -65,11 +61,4 @@
   <img height="230" src="https://giffiles.alphacoders.com/221/221754.gif"  />
 </div>
 
-
-###
-<div align="center">
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fleviferre1ra&s=40&c=ad0000&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=)
-</div>
-
-###
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=b21106&reversal=false&fontAlign=50&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cd3500&reversal=false&fontAlign=50&section=footer&descAlign=50"/>
