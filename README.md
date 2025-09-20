@@ -19,16 +19,17 @@
 <br>
 
 <div align="center" style="font-size: 0;">
-  <a href="https://www.instagram.com/leviferre1ra" target="_blank">
+  <a href="https://www.instagram.com/leviferre1ra" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-A52A2A?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:leviferreira1677@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leviferreira1677@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-A52A2A?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/levi-ferreira-08325b298" target="_blank">
+  <a href="https://www.linkedin.com/in/levi-ferreira-08325b298" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-A52A2A?style=for-the-badge&logo=Linkedin" height="35" alt="linkedin logo" />
   </a>
 </div>
+
 
 <br>
 
