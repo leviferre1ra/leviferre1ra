@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=D70000&width=435&lines=Hi%2C+my+name+is+Levi+Ferreira;I'm+a+Software+Development+student" alt="Typing SVG" />
 </div>
 
-<br>
+
 
 
 <div align="center">
