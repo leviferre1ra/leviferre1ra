@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cd3500&reversal=false&fontAlign=50&section=header&descAlign=50"/>
 
-<div align="center"  width="100%">
+<div align="left"  width="100%">
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=D70000&width=435&lines=Hi%2C+my+name+is+Levi+Ferreira;I'm+a+Software+Development+student" alt="Typing SVG" />
 </div>
 
