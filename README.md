@@ -1,7 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cd3500&reversal=false&fontAlign=50&section=header&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=cd3500&reversal=false&fontAlign=50&section=header&descAlign=50"/>
 
-<div align="left"  width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=D70000&width=435&lines=Hi%2C+my+name+is+Levi+Ferreira;I'm+a+Software+Development+student" alt="Typing SVG" />
+<div align="center">
+<p> 心に炎を灯す </p>
+</div>
+
+<div align="center"  width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=cd3500&width=435&lines=Welcome%2C+my+name+is+Levi+Ferreira+:D;I'm+a+Software+Development+student" alt="Typing SVG" />
 </div>
 
 
@@ -20,13 +24,13 @@
 
 <div align="center" style="font-size: 0;">
   <a href="https://www.instagram.com/leviferre1ra" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-A52A2A?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-9C2207?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leviferreira1677@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-A52A2A?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-9C2207?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/levi-ferreira-08325b298" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-A52A2A?style=for-the-badge&logo=Linkedin" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-9C2207?style=for-the-badge&logo=Linkedin" height="35" alt="linkedin logo" />
   </a>
 </div>
 
@@ -62,4 +66,4 @@
   <img height="230" src="https://giffiles.alphacoders.com/221/221754.gif"  />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cd3500&reversal=false&fontAlign=50&section=footer&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=cd3500&reversal=false&fontAlign=50&section=footer&descAlign=50"/>
