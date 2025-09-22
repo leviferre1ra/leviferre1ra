@@ -8,20 +8,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=cd3500&width=435&lines=Welcome%2C+my+name+is+Levi+Ferreira+:D;I'm+a+Software+Development+student" alt="Typing SVG" />
 </div>
 
-
-
-
 <div align="center">
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviferre1ra&theme=kacho_ga) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leviferre1ra&theme=kacho_ga) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leviferre1ra&theme=kacho_ga&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leviferre1ra&theme=kacho_ga) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leviferre1ra&theme=kacho-ga&hide_border=true)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leviferre1ra&theme=kacho_ga) |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leviferre1ra&theme=kacho-ga&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
-
 </div>
-<br>
 
+
+<br>
 <div align="center" style="font-size: 0;">
   <a href="https://www.instagram.com/leviferre1ra" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-9C2207?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo" />
@@ -33,8 +30,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-9C2207?style=for-the-badge&logo=Linkedin" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-
 <br>
 
 <div align="center">
