@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=cd3500&reversal=false&fontAlign=50&section=header&descAlign=50"/>
 
+<div align="center"  width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=cd3500&width=435&lines=Welcome%2C+my+name+is+Levi+Ferreira+:D;I'm+a+Software+Development+student" alt="Typing SVG" />
+</div>
+
 <div align="center" >
 <h4>🎯 My goal is to become a full stack developer<br>
  ✨ Studying Multiplatform Software Development<br>
@@ -10,9 +14,7 @@
 
  <br>
 
-<div align="center"  width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=cd3500&width=435&lines=Welcome%2C+my+name+is+Levi+Ferreira+:D;I'm+a+Software+Development+student" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   
