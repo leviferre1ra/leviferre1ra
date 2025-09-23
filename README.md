@@ -4,10 +4,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=cd3500&width=435&lines=Welcome%2C+my+name+is+Levi+Ferreira+:D;I'm+a+Software+Development+student" alt="Typing SVG" />
 </div>
 
-<div align="center" >
+<div align="left" >
 <h4>🎯 My goal is to become a full stack developer<br>
- ✨ Studying Multiplatform Software Development<br>
- 📚 Dedicated to having a good foundation in the back-end<br> 
+ 📚 Dedicated to having a good foundation in the back-end<br>
+ ✨ 3rd semester of the Multiplatform Software Development course
 </h4>
 
 
@@ -64,7 +64,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="230" src="https://giffiles.alphacoders.com/221/221754.gif"  />
+  <img height="180" src="https://giffiles.alphacoders.com/221/221754.gif"  />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=cd3500&reversal=false&fontAlign=50&section=footer&descAlign=50"/>
