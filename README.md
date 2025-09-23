@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=cd3500&reversal=false&fontAlign=50&section=header&descAlign=50"/>
 
 <div align="center" >
-<p> - My goal is to become a full stack developer<br>
- - Studying Multiplatform Software Development <br>
-  - Dedicated to having a good foundation in the back-end<br>
-  - Learning, communicating, and collaborating are part of who I am.
+<p> • My goal is to become a full stack developer<br>
+ • Studying Multiplatform Software Development <br>
+  • Dedicated to having a good foundation in the back-end<br>
+  • Learning, communicating, and collaborating are part of who I am.
 </p>
  <br>
 
