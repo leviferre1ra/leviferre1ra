@@ -6,7 +6,6 @@
 
 <div align="left" >
 <h4>✨ Undergraduate in Multiplatform Software Development, expected to complete the course at the end of 2027.<br>
- 📚 I'm improving my knowledge of Java, Spring Boot, and PostgreSQL, building a solid foundation in backend development.<br>
  🎯 I have dedicated myself to learning the most diverse technologies, with the main objective of becoming a Full Stack Developer.<br>
  💭 Learning and collaborating are part of who I am. Curiosity becomes action and challenges become opportunities for growth.
 </h4>
