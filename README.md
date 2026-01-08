@@ -5,9 +5,9 @@
 </div>
 
 <div align="left" >
-<h4>✨ Undergraduate in Multiplatform Software Development, expected to complete the course at the end of 2027.<br>
- 🎯 I have dedicated myself to learning the most diverse technologies, with the main objective of becoming a Full Stack Developer.<br>
- 💭 Learning and collaborating are part of who I am. Curiosity becomes action and challenges become opportunities for growth.
+<h4>✨ Graduando em Desenvolvimento de Software Multiplataforma, com previsão de conclusão do curso no final de 2027.<br>
+ 🎯 Tenho me dedicado a aprender as mais diversas tecnologias, com o principal objetivo de me tornar um Desenvolvedor Full Stack.<br>
+ 💭 Aprender e colaborar fazem parte de quem eu sou. A curiosidade se transforma em ação e os desafios se tornam oportunidades de crescimento.
 </h4>
 
 
