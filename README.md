@@ -7,7 +7,7 @@
 <div align="left" >
 <h4> ✨ Estagiário de Programação Full Stack | Node.js | React | JavaScript - Autoridade Portuária de Santos (APS)
  
- 🎯 Graduando em Desenvolvimento de Software Multiplataforma (4º semestre) - FATEC Praia Grande * SP
+ 🎯 Graduando em Desenvolvimento de Software Multiplataforma (4º semestre) - FATEC Praia Grande - SP
 </h4>
 
 
