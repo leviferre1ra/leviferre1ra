@@ -5,9 +5,9 @@
 </div>
 
 <div align="left" >
-<h4>✨ Graduando em Desenvolvimento de Software Multiplataforma, com previsão de conclusão do curso no final de 2027.<br>
- 🎯 Tenho me dedicado a aprender as mais diversas tecnologias, com o principal objetivo de me tornar um Desenvolvedor Full Stack.<br>
- 💭 Aprender e colaborar fazem parte de quem eu sou. A curiosidade se transforma em ação e os desafios se tornam oportunidades de crescimento.
+<h4> ✨ Estagiário de Programação Full Stack | Node.js | React | JavaScript - Autoridade Portuária de Santos (APS)
+ 
+ 🎯 Graduando em Desenvolvimento de Software Multiplataforma (4º semestre) - FATEC Praia Grande * SP
 </h4>
 
 
